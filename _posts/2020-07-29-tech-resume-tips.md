@@ -2,10 +2,13 @@
 title: Tech resume tips
 ---
 
+Here is a quick list of things i have learnt..
+
 1. Recruiters still prefer classis fonts - Times New Roman, Calibri.
 2. Size > 10.5.
-3. DRY.
+3. DRY - Don't repeat yourself. Try not to repeat words either.
 4. 
+5. 
 
 
 References;
