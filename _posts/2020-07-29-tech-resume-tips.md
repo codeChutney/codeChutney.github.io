@@ -2,13 +2,16 @@
 title: Tech resume tips
 ---
 
-Here is a quick list of things i have learnt..
+Here is a quick list of things i have learnt, documneting them here as almost all other resources i have seen are TL;DR..
+
+A lot of these are picked from the tweet by Randall Kanna in the references section. 
 
 1. Recruiters still prefer classis fonts - Times New Roman, Calibri.
-2. Size > 10.5.
+2. Size: > 10.5 and <12.
 3. DRY - Don't repeat yourself. Try not to repeat words either.
-4. 
-5. 
+4. Run it through [Grammarly](https://www.grammarly.com/). 
+5. Run it through a scanner, so that you can beat an ATS(applicant tracking systems) - https://resumeworded.com/resume-scanner.
+6. 
 
 
 References;
