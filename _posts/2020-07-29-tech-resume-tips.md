@@ -2,7 +2,7 @@
 title: Tech resume tips
 ---
 
-Here is a quick list of things i have learnt, documneting them here as almost all other resources i have seen are TL;DR..
+Here is a quick list of things i have learnt, documeting them here as almost all other resources i have seen are TL;DR..
 
 A lot of these are picked from the tweet by Randall Kanna in the references section. 
 
@@ -26,7 +26,7 @@ Learning: Python, Ruby on Rails
 
 
 
-References;
+# References
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">How to improve your resume quickly in ANY (really!) amount of time. 🧵</p>&mdash; Randall Kanna (@RandallKanna) <a href="https://twitter.com/RandallKanna/status/1287950733380218880?ref_src=twsrc%5Etfw">July 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
@@ -35,5 +35,6 @@ References;
 
 
 
-//TODO
+# Todo
+
 1. Add S3 link to template here.
