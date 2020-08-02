@@ -11,7 +11,19 @@ A lot of these are picked from the tweet by Randall Kanna in the references sect
 3. DRY - Don't repeat yourself. Try not to repeat words either.
 4. Run it through [Grammarly](https://www.grammarly.com/). 
 5. Run it through a scanner, so that you can beat an ATS(applicant tracking systems) - https://resumeworded.com/resume-scanner.
-6. 
+6. Include a Skills List so that you beat whatever keyword scanner the company might be using. Here is an example:
+
+```
+Here is an example of what a skills list should look like:
+
+Expert: C#, C/C++, VB.NET, ASP.NET, HTML, CSS, SQL, REST, SOAP
+
+Intermediate: Java, J2EE, Spring, Hibernate, JDBC, Eclipse, Jenkins, Hudson
+
+Learning: Python, Ruby on Rails
+```
+
+
 
 
 References;
