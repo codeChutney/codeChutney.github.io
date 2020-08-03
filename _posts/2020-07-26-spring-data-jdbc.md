@@ -1,5 +1,5 @@
 ---
-title: spring-data-jdbc
+title: Spring data JDBC
 ---
 
 *Listened to [A bootiful podcast's](https://podcasts.apple.com/us/podcast/a-bootiful-podcast/id1438691771) episode on  [Spring Data JDBC](https://podcasts.apple.com/us/podcast/spring-data-jdbc-co-founder-on-jdbc-jpa-domain-driven/id1438691771?i=1000484046917)*.

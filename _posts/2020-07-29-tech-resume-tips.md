@@ -7,7 +7,7 @@ Here is a quick list of things i have learnt, documeting them here as almost all
 A lot of these are picked from the tweet by Randall Kanna in the references section. 
 
 1. Recruiters still prefer classis fonts - Times New Roman, Calibri.
-2. Size: > 10.5 and <12.
+2. Font size: > 10.5 and <12.
 3. DRY - Don't repeat yourself. Try not to repeat words either.
 4. Run it through [Grammarly](https://www.grammarly.com/). 
 5. Run it through a scanner, so that you can beat an ATS(applicant tracking systems) - https://resumeworded.com/resume-scanner.
