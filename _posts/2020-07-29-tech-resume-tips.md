@@ -10,7 +10,7 @@ A lot of these are picked from the tweet by Randall Kanna in the references sect
 2. Font size: > 10.5 and <12.
 3. DRY - Don't repeat yourself. Try not to repeat words either.
 4. Run it through [Grammarly](https://www.grammarly.com/). 
-5. Run it through a scanner, so that you can beat an ATS(applicant tracking systems) - https://resumeworded.com/resume-scanner.
+5. Run it through a [scanner](https://resumeworded.com/resume-scanner), so that you can beat an ATS(applicant tracking systems).
 6. Include a Skills list so that you beat whatever keyword scanner the company might be using. Example:
 
 ```
