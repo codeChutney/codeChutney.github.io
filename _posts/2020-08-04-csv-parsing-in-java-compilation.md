@@ -4,7 +4,7 @@ title: CSV Parsing in Java - Compilation
 
 1. Java IO vs NIO.
 2. Benchmark.
-3.
+3. Upload to some cloud serverless infrastructure.
 
 
 
