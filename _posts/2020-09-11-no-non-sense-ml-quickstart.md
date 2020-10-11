@@ -21,7 +21,14 @@ So, here is a no non-sense quickstart for ML using Python, VS Code(IDE), Anacond
  
 * Thats it for the setup. Now lets run the most popular and simple ML exercise - 
 
-References(See/Read these):
+
+### References(See/Read these):
 
 1. https://code.visualstudio.com/Download
 2. https://docs.anaconda.com/anaconda/install/windows/
+
+
+### Questions:
+
+1. Classification vs Clustering vs Regression?
+2. What is a data lake?
