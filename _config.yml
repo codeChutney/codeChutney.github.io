@@ -1,4 +1,4 @@
-title: Just some ramblings..
+title: Ramblings
 description: >-
   Not enough room in the hippocampus, and until i can get my hands on neuralink,
   ill just put stuff here.
@@ -6,7 +6,18 @@ baseurl: ''
 url: ''
 github_username: codeChutney
 author: amyth
-theme: minima
+theme: just-the-docs
+color_scheme: light
+collections:
+  posts:
+    permalink: "/:collection/:path/"
+    output: true
+just_the_docs:
+  collections:
+    posts:
+      name: Documentation
+      nav_exclude: false
+      search_exclude: false
 plugins:
   - jekyll-feed
 email: a_myhtl@yahoo.com

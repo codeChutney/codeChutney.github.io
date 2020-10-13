@@ -1,5 +1,6 @@
 ---
 title: CSV Parsing in Java - Compilation
+parent: Java
 ---
 
 1. Java IO vs NIO.

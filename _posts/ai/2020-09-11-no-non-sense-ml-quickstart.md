@@ -1,8 +1,12 @@
 ---
 title: No non-sense ML quickstart
+parent: AI
+permalink: /tutorial/ai/quickstart
 ---
 
-It is important to get started quickly, get your hands dirty...when you want to learn something especially code/technologies/frameworks.
+# No non-sense ML quickstart
+
+It is important to get started quickly, get your hands dirty...when you want to learn something, especially code/technologies/frameworks.
 
 So, here is a no non-sense quickstart for ML using Python, VS Code(IDE), Anaconda(Distro). Lets also use Jupyter Notebooks which also comes with the Python extension for VS Code.
 
@@ -24,11 +28,6 @@ So, here is a no non-sense quickstart for ML using Python, VS Code(IDE), Anacond
 
 ### References(See/Read these):
 
-1. https://code.visualstudio.com/Download
-2. https://docs.anaconda.com/anaconda/install/windows/
+1. [VSCode](https://code.visualstudio.com/Download){:target="_blank"}
+2. [Anaconda](https://docs.anaconda.com/anaconda/install/windows/){:target="_blank"}
 
-
-### Questions:
-
-1. Classification vs Clustering vs Regression?
-2. What is a data lake?

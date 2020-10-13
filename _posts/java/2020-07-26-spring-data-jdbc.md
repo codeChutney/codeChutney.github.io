@@ -1,5 +1,6 @@
 ---
 title: Spring data JDBC
+parent: Java
 ---
 
 # What is Spring-data-jdbc?
