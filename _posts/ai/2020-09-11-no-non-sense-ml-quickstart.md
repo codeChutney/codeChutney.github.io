@@ -18,7 +18,7 @@ So, here is a no non-sense quickstart for ML using Python, VS Code(IDE), Anacond
 
 # Lets get started:
 * Install VS Code. Simple .exe or .dmg download and execution from the Microsoft site with all defaults.
-* Install Anaconda. Download [installer](https://docs.anaconda.com/anaconda/install/windows/) and run it with all the defaults.
+* Install Anaconda. Download [installer](https://docs.anaconda.com/anaconda/install/windows/){:target="_blank"} and run it with all the defaults.
 * Open VS code, on the left pane you should see the Extensions button, click on it, type Pyhon in the search bar. Install the one from Microsoft.
 
 	![]({{ 'Screen Shot 2020-09-11 at 21.05.33.png' | relative_url }})

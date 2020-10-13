@@ -1,6 +1,6 @@
 ---
 title: Tech resume tips
-permalink: /tips/resume
+permalink: "/tips/resume"
 ---
 
 # Simple tips for building an effective resume
@@ -18,19 +18,17 @@ A lot of these are picked from the tweet by Randall Kanna in the references sect
 7. Make sure To have your name on every page.
 8. Include a Skills list so that you beat whatever keyword scanner the company might be using. Example:
 
-```
+
+```markdown
 Here is an example of what a skills list should look like:
-
 Expert: C#, C/C++, VB.NET, ASP.NET, HTML, CSS, SQL, REST, SOAP
-
 Intermediate: Java, J2EE, Spring, Hibernate, JDBC, Eclipse, Jenkins, Hudson
-
 Learning: Python, Ruby on Rails
 ```
 
 
 
-## References
+#### References
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">How to improve your resume quickly in ANY (really!) amount of time. 🧵</p>&mdash; Randall Kanna (@RandallKanna) <a href="https://twitter.com/RandallKanna/status/1287950733380218880?ref_src=twsrc%5Etfw">July 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
