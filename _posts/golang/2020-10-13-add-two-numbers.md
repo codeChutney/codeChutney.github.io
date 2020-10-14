@@ -1,5 +1,5 @@
 ---
-title: Example 2 | Add two numbers
+title: Example 1 | Add two numbers
 parent: Golang
 ---
 
