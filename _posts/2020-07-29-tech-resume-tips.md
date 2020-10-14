@@ -25,10 +25,7 @@ Expert: C#, C/C++, VB.NET, ASP.NET, HTML, CSS, SQL, REST, SOAP
 Intermediate: Java, J2EE, Spring, Hibernate, JDBC, Eclipse, Jenkins, Hudson
 Learning: Python, Ruby on Rails
 ```
-
-
-
-#### References
+##### References 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">How to improve your resume quickly in ANY (really!) amount of time. 🧵</p>&mdash; Randall Kanna (@RandallKanna) <a href="https://twitter.com/RandallKanna/status/1287950733380218880?ref_src=twsrc%5Etfw">July 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
