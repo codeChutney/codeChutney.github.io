@@ -1,5 +1,5 @@
 ---
-title: Stuff you forget
+title: ZZ Misc reference
 permalink: "/misc"
 ---
 
