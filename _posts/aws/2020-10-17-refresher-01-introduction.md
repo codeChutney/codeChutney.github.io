@@ -1,5 +1,5 @@
 ---
-title: Refresher 01 Introduction
+title: Refresher 01 | Introduction
 parent: AWS
 ---
 
