@@ -3,7 +3,7 @@ title: Refresher 02 | What is Cloud
 parent: AWS
 ---
 
-## WHat is cloud
+## What is cloud
 
 **Simple terms:** Cloud is basically renting someone else's computers.
 ### Advantages of cloud computing.
