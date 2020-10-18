@@ -1,14 +1,14 @@
 ---
 title: Kaggle Intro to Machine Learning
 parent: AI
-permalink: /notes/kaggle/intro
+permalink: "/notes/kaggle/intro"
 ---
 
 # Some silly notes:
 
 ### Pandas
 * Usually comes with Ananconda or Miniconda.
-* Usually devs use pd for pandas - import pandas as pd
+* Usually devs use pd(as variable name) for pandas - import pandas as pd
 * [Docs](https://pandas.pydata.org/docs/reference/index.html)
 
 ### Scikit learn
