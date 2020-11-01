@@ -48,7 +48,13 @@ melbourne_data.columns
 melbourne_data.count()
 ```
 
-### References(See/Read these):
+### Inspired by:
+1. [Kaggle]
+
+### Recommendations:
+1. Take this course: 
+2. Take this course:
+### References:
 
 1. [VSCode](https://code.visualstudio.com/Download){:target="_blank"}
 2. [Anaconda](https://docs.anaconda.com/anaconda/install/windows/){:target="_blank"}
