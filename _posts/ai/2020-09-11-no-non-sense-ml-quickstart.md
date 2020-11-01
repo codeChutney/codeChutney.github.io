@@ -36,6 +36,17 @@ import pandas as pd
 melbourne_data_path = './housing_data/melb_data.csv'
 ```
 * Not much we can do without the data. Here are the links to the cvs files on kaggle: [melbourne](https://www.kaggle.com/dansbecker/melbourne-housing-snapshot){:target="_blank"} and [iowa](https://www.kaggle.com/nickptaylor/iowa-house-prices){:target="_blank"} .
+* Now lets take a look at the data. 
+
+```
+melbourne_data = pd.read_csv(melbourne_data_path)
+// describes your data statistically(will show mean, count, standard deviation etc)
+melbourne_data.describe()
+//see the columns
+melbourne_data.columns
+//see count
+melbourne_data.count()
+```
 
 ### References(See/Read these):
 
