@@ -23,9 +23,19 @@ So, here is a no non-sense quickstart for ML using Python, VS Code(IDE), Anacond
 
 	![]({{ 'Screen Shot 2020-09-11 at 21.05.33.png' | relative_url }})
  
+* The only other thing is to tell VS code where the python interpreter is. Use the one from anaconda.
 * Thats it for the setup. Now lets run the most popular and simple ML exercise.
-* This is just a guide of how to get started, so paying no attention to naming conventions etc., hit ```Ctrl + Shift + p``` in VS Code. Now that the python extension is installed you should see 'Python: Create new blank Jupyter notebook' once you start typing 'Jupyter'. 
+* This is just a guide of how to get started, so paying no attention to naming conventions etc., hit ```Ctrl + Shift + p``` in VS Code. Now that the python extension is installed you should see 'Python: Create new blank Jupyter notebook' once you start typing 'Jupyter'. Select it.
+* Name the file anything you want, say 'housing_price_predictor_model'. That should help create a ```*.ipynb``` file.
+* That's it for now, lets write a couple of lines of code and then go get the csv files.
 
+```
+//should be part of anaconda
+import pandas as pd
+//setting the file path for melbourne data
+melbourne_data_path = './housing_data/melb_data.csv'
+```
+* Not much we can do without the data. Here are the links to the cvs files on kaggle: [melbourne](https://www.kaggle.com/dansbecker/melbourne-housing-snapshot){:target="_blank"} and [iowa](https://www.kaggle.com/nickptaylor/iowa-house-prices){:target="_blank"} .
 
 ### References(See/Read these):
 
