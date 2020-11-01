@@ -1,7 +1,7 @@
 ---
 title: No non-sense ML quickstart
 parent: AI
-permalink: /tutorial/ai/quickstart
+permalink: "/tutorial/ai/quickstart"
 ---
 
 # No non-sense ML quickstart
@@ -23,11 +23,11 @@ So, here is a no non-sense quickstart for ML using Python, VS Code(IDE), Anacond
 
 	![]({{ 'Screen Shot 2020-09-11 at 21.05.33.png' | relative_url }})
  
-* Thats it for the setup. Now lets run the most popular and simple ML exercise - 
+* Thats it for the setup. Now lets run the most popular and simple ML exercise.
+* This is just a guide of how to get started, so paying no attention to naming conventions etc., hit ```Ctrl + Shift + p``` in VS Code. Now that the python extension is installed you should see 'Python: Create new blank Jupyter notebook' once you start typing 'Jupyter'. 
 
 
 ### References(See/Read these):
 
 1. [VSCode](https://code.visualstudio.com/Download){:target="_blank"}
 2. [Anaconda](https://docs.anaconda.com/anaconda/install/windows/){:target="_blank"}
-
