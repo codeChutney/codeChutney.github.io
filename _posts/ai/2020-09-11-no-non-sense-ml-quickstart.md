@@ -53,8 +53,8 @@ melbourne_data.count()
 1. [Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning){:target="_blank"}
 
 ### Recommendations:
-1. Take this course: 
-2. Take this course:
+1. Take this course: [Kaggle Intro to machine learning](https://www.kaggle.com/learn/intro-to-machine-learning)
+2. Take this course: 
 
 ### References:
 
