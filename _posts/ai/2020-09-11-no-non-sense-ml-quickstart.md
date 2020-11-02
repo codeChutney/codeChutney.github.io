@@ -54,7 +54,7 @@ melbourne_data.count()
 
 ### Recommendations:
 1. Take this course: [Kaggle Intro to machine learning](https://www.kaggle.com/learn/intro-to-machine-learning)
-2. Take this course: 
+2. Take this course: [Kaggle pandas](https://www.kaggle.com/learn/intro-to-machine-learning)
 
 ### References:
 
