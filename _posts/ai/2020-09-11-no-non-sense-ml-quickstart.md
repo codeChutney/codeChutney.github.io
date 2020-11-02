@@ -50,7 +50,7 @@ melbourne_data.count()
 ```
 
 ### Inspired by:
-1. [Kaggle]
+1. [Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning){:target="_blank"}
 
 ### Recommendations:
 1. Take this course: 
