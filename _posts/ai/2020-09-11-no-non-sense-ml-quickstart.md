@@ -4,7 +4,7 @@ parent: AI
 permalink: "/tutorial/ai/quickstart"
 ---
 
-# No non-sense ML quickstart
+# No non-sense ML quickstart from an ML NOOB
 
 It is important to get started quickly, get your hands dirty...when you want to learn something, especially code/technologies/frameworks.
 
@@ -17,12 +17,13 @@ So, here is a no non-sense quickstart for ML using Python, VS Code(IDE), Anacond
 **Why Jupyter Notebooks?** Helps you divide your Python code into cells and run/debug them individually. Very useful when processing large data sets.
 
 # Lets get started:
+
 * Install VS Code. Simple .exe or .dmg download and execution from the Microsoft site with all defaults.
 * Install Anaconda. Download [installer](https://docs.anaconda.com/anaconda/install/windows/){:target="_blank"} and run it with all the defaults.
-* Open VS code, on the left pane you should see the Extensions button, click on it, type Pyhon in the search bar. Install the one from Microsoft.
+*  Open VS code, on the left pane you should see the Extensions button, click on it, type Pyhon in the search bar. Install the one from Microsoft.
 
-	![]({{ 'Screen Shot 2020-09-11 at 21.05.33.png' | relative_url }})
- 
+![]({{ 'Screen Shot 2020-09-11 at 21.05.33.png' | relative_url }})
+
 * The only other thing is to tell VS code where the python interpreter is. Use the one from anaconda.
 * Thats it for the setup. Now lets run the most popular and simple ML exercise.
 * This is just a guide of how to get started, so paying no attention to naming conventions etc., hit ```Ctrl + Shift + p``` in VS Code. Now that the python extension is installed you should see 'Python: Create new blank Jupyter notebook' once you start typing 'Jupyter'. Select it.
@@ -54,6 +55,7 @@ melbourne_data.count()
 ### Recommendations:
 1. Take this course: 
 2. Take this course:
+
 ### References:
 
 1. [VSCode](https://code.visualstudio.com/Download){:target="_blank"}
